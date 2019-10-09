@@ -9,7 +9,7 @@ I am a PhD student in the Applied Data Mining research group, working on *Interp
 
 ## Talks
 
-* Instance-based explanations: motivation, overview, and the evidence counterfactual approach. <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019
+* [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://github.com/yramon/yramon.github.io/blob/master/ECDA_presentation_Bayreuth_YanouRamon.pdf) <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019
 
 ## Teaching
 
