@@ -9,7 +9,7 @@ I am a PhD student in the Applied Data Mining research group, working on *Interp
 
 ## Talks
 
-* Comparative study of instance-level explanations for big, sparse data. <br/> EURO Conference, Dublin (Ireland), June 2019
+* [Comparative study of instance-level explanations for big, sparse data.](https://yramon.github.io/files/EURO_presentation_Dublin_June19_YanouRamon.pdf) <br/> EURO Conference, Dublin (Ireland), June 2019
 
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf) <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019
 
