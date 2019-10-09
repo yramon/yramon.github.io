@@ -16,4 +16,4 @@ I am a PhD student in the Applied Data Mining research group at the University o
 ## Teaching & Other projects
 * Assistant of *Data Mining* course for students Applied Economic Sciences and Business Engineering at the University of Antwerp. <br/> Responsible for the data science challenge (in collaboration with AXA Bank) and for the Python tutorial sessions.
 
-* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment* July 2020. 
+* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment*. <br/> July 2020 
