@@ -13,5 +13,7 @@ I am a PhD student in the Applied Data Mining research group at the University o
 
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf) <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019 <br/> [book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf) | [ECDA 2019](http://www.gfkl.org/ecda2019/)
 
-## Teaching
-* Assistant of *Data Mining* course for students Applied Economic Sciences and Business Engineering. <br/> Responsible for the data challenge (in collaboration with AXA Bank) and for the Python tutorial sessions.
+## Teaching & Other projects
+* Assistant of *Data Mining* course for students Applied Economic Sciences and Business Engineering at the University of Antwerp. <br/> Responsible for the data science challenge (in collaboration with AXA Bank) and for the Python tutorial sessions.
+
+* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment* July 2020. 
