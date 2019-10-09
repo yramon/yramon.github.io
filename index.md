@@ -4,12 +4,12 @@ I am a PhD student in the Applied Data Mining research group, working on *Interp
 
 ## Publications
 
-* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. <br/> **Y. Ramon**, D. Martens, F. Provost & T. Evgeniou. <br/> *Currently under review.*
+* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. <br/> **Yanou Ramon**, David Martens, Foster Provost & Theodoros Evgeniou. <br/> *Currently under review.*
 
 
 ## Talks
 
-* Instance-based explanations: motivation, overview, and the evidence counterfactual approach. <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019.
+* Instance-based explanations: motivation, overview, and the evidence counterfactual approach. <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019
 
 ## Teaching
 
