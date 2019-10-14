@@ -6,7 +6,7 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 ## Publications
 
-* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. <br/> **Yanou Ramon**, David Martens, Foster Provost & Theodoros Evgeniou. <br/> *Currently under review.*
+* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. (2019). <br/> Yanou Ramon, David Martens, Foster Provost & Theodoros Evgeniou. <br/> *Currently under review.*
 
 
 ## Talks
@@ -18,4 +18,4 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 ## Teaching & Other projects
 * Assistant of *Data Mining* course of Prof. dr. ir. David Martens. <br/> University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Data Science Challenge (in collaboration with AXA Bank) and the Python tutorials.
 
-* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment*. <br/> Will take place in July 2020.
+* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment* in Washington D.C. (USA). <br/> Will take place in July 2020.
