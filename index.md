@@ -11,6 +11,8 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 ## Talks
 
+* [Instance-level explanation algorithms on behavioral and textual data: a counterfactual-oriented comparison.](https://yramon.github.io/files/CLIPS_YRamon_15102019.pdf) <br/> [CLiPS](https://www.uantwerpen.be/en/research-groups/clips/) Lab Meeting, University of Antwerp (Belgium), October 2019
+
 * [Comparative study of instance-level explanations for big, sparse data.](https://yramon.github.io/files/EURO_presentation_Dublin_June19_YanouRamon.pdf) <br/> EURO Conference, Dublin (Ireland), June 2019
 
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf) <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019 <br/> [book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf) / [ECDA 2019](http://www.gfkl.org/ecda2019/)
