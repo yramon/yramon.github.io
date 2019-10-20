@@ -2,7 +2,7 @@
 <html>
 <head><meta charset="utf-8" />
 
-<title>.ipynb</title>
+<title>Tutorial_BehavioralData_SEDC</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13116,19 +13116,18 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Import libraries and import data set.</strong></p>
+<p><strong>Import libraries and import data set. Note: change the directory to where you saved the modules <em>edc_agnostic.py</em> and <em>fn_1.py</em>, as well as the data files (see repository).</strong></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
 <span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
-<span class="kn">import</span> <span class="nn">os</span> 
 <span class="kn">import</span> <span class="nn">scipy</span>
 
 <span class="kn">import</span> <span class="nn">edc_agnostic</span>
@@ -13142,7 +13141,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">run</span> edc_agnostic.py #run edc_agnostic.py module
@@ -13163,12 +13162,27 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[6]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">target</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;target_ML1M.csv&#39;</span><span class="p">)</span>
-<span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data_ML1M.csv&#39;</span><span class="p">)</span>
+<span class="n">a</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data_ML1M_part1.csv&#39;</span><span class="p">)</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data_ML1M_part2.csv&#39;</span><span class="p">)</span>
+<span class="n">c</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;data_ML1M_part3.csv&#39;</span><span class="p">)</span>
 <span class="n">feature_names</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;feature_names_ML1M.csv&#39;</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[7]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">concat</span><span class="p">([</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span><span class="p">])</span>
 </pre></div>
 
     </div>
@@ -13186,7 +13200,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[8]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="k">import</span> <span class="n">train_test_split</span>
@@ -13200,7 +13214,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[29]:</div>
+<div class="prompt input_prompt">In&nbsp;[9]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.neural_network</span> <span class="k">import</span> <span class="n">MLPClassifier</span>
@@ -13218,7 +13232,7 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[29]:</div>
+    <div class="prompt output_prompt">Out[9]:</div>
 
 
 
@@ -13249,7 +13263,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[30]:</div>
+<div class="prompt input_prompt">In&nbsp;[10]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="k">import</span> <span class="n">roc_auc_score</span>
@@ -13273,7 +13287,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>The AUC of the model is 0.820371
+<pre>The AUC of the model is 0.828103
 </pre>
 </div>
 </div>
@@ -13292,7 +13306,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[31]:</div>
+<div class="prompt input_prompt">In&nbsp;[11]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">probs</span> <span class="o">=</span> <span class="n">MLP_model</span><span class="o">.</span><span class="n">predict_proba</span><span class="p">(</span><span class="n">x_test</span><span class="p">)[:,</span><span class="mi">1</span><span class="p">]</span>
@@ -13308,7 +13322,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[32]:</div>
+<div class="prompt input_prompt">In&nbsp;[12]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">classification_model</span> <span class="o">=</span> <span class="n">MLP_model</span> 
@@ -13327,14 +13341,14 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Create an SEDC explainer object. By default, the SEDC algorithm stops looking for explanations when a first explanation is found or when a 2-minute time limit is exceeded or when more than 50 iterations are required (see edc_agnostic.py for more details). Only the active (~nonzero) features are perturbed (~set to zero) to evaluate the impact on the model's predicted output. In other words, only the movies that a user has watched can become part of the counterfactual explanation of the model prediction.</strong></p>
+<p><strong>Create an SEDC explainer object. By default, the SEDC algorithm stops looking for explanations when a first explanation is found or when a 2-minute time limit is exceeded or when more than 50 iterations are required (see edc_agnostic.py for more details). Only the active (nonzero) features are perturbed (set to zero) to evaluate the impact on the model's predicted output. In other words, only the movies that a user has watched can become part of the counterfactual explanation of the model prediction.</strong></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">explainer_SEDC</span> <span class="o">=</span> <span class="n">EDC_Explainer</span><span class="p">(</span><span class="n">feature_names</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">feature_names</span><span class="o">.</span><span class="n">iloc</span><span class="p">[:,</span><span class="mi">1</span><span class="p">]),</span> 
@@ -13357,7 +13371,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[52]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">indices_probs_pos</span> <span class="c1">#all instances that are predicted as &#39;MALE&#39;</span>
@@ -13373,39 +13387,39 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[52]:</div>
+    <div class="prompt output_prompt">Out[14]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>(array([   4,   12,   20,   21,   25,   30,   32,   37,   57,   60,   65,
-          74,   75,   82,   84,   86,   88,   94,   95,   97,  101,  106,
-         116,  119,  120,  122,  123,  127,  133,  139,  140,  141,  142,
-         144,  148,  150,  152,  162,  164,  166,  167,  173,  174,  175,
-         180,  181,  189,  190,  199,  200,  206,  211,  214,  216,  220,
-         221,  222,  223,  230,  233,  238,  239,  254,  255,  257,  262,
-         264,  269,  271,  282,  284,  287,  290,  292,  295,  296,  301,
-         305,  307,  309,  312,  315,  316,  317,  319,  339,  340,  341,
-         343,  349,  350,  352,  353,  358,  360,  361,  372,  375,  383,
-         384,  394,  395,  396,  401,  415,  417,  421,  436,  451,  454,
-         458,  466,  471,  472,  475,  478,  482,  485,  487,  489,  501,
-         503,  513,  523,  524,  532,  533,  539,  548,  550,  554,  557,
-         563,  564,  565,  572,  575,  579,  590,  600,  608,  609,  615,
-         623,  627,  640,  641,  643,  647,  648,  650,  654,  657,  659,
-         665,  666,  669,  670,  677,  682,  685,  694,  698,  703,  706,
-         709,  710,  714,  716,  719,  722,  723,  724,  735,  737,  738,
-         739,  740,  748,  749,  750,  751,  753,  756,  757,  759,  769,
-         771,  773,  777,  783,  784,  793,  796,  800,  806,  819,  820,
-         828,  830,  838,  842,  844,  845,  847,  855,  856,  860,  866,
-         869,  873,  876,  878,  880,  885,  886,  890,  892,  894,  895,
-         904,  936,  938,  941,  944,  945,  949,  950,  952,  953,  955,
-         956,  957,  965,  971,  980,  983,  984,  987,  990,  993,  996,
-        1000, 1002, 1003, 1006, 1011, 1020, 1021, 1022, 1027, 1032, 1038,
-        1042, 1050, 1063, 1067, 1069, 1071, 1074, 1078, 1080, 1081, 1085,
-        1088, 1089, 1100, 1104, 1105, 1115, 1117, 1120, 1122, 1125, 1129,
-        1132, 1134, 1135, 1138, 1141, 1142, 1156, 1161, 1164, 1167, 1169,
-        1170, 1178, 1182, 1185, 1186, 1189, 1191, 1193, 1195, 1198, 1199,
+<pre>(array([   9,   21,   24,   25,   30,   32,   41,   57,   60,   61,   65,
+          74,   75,   82,   84,   86,   87,   88,   93,   94,   97,  102,
+         106,  116,  120,  122,  123,  127,  133,  139,  140,  141,  142,
+         144,  148,  150,  152,  153,  162,  164,  166,  173,  174,  175,
+         180,  181,  190,  199,  200,  203,  206,  211,  214,  216,  222,
+         223,  224,  230,  235,  238,  254,  255,  257,  264,  269,  271,
+         282,  284,  287,  290,  292,  295,  296,  298,  301,  305,  307,
+         309,  312,  316,  317,  319,  320,  336,  339,  340,  341,  343,
+         350,  353,  358,  360,  361,  372,  375,  378,  380,  384,  394,
+         395,  396,  397,  401,  415,  417,  451,  454,  458,  466,  471,
+         472,  475,  478,  482,  485,  487,  489,  498,  501,  503,  510,
+         513,  523,  524,  525,  532,  533,  548,  550,  554,  563,  564,
+         565,  572,  575,  579,  587,  590,  591,  595,  599,  600,  608,
+         609,  610,  615,  617,  627,  640,  641,  643,  645,  648,  649,
+         650,  654,  657,  665,  666,  669,  670,  677,  682,  685,  694,
+         698,  703,  706,  709,  710,  716,  719,  722,  723,  724,  735,
+         739,  740,  748,  749,  750,  751,  753,  756,  757,  759,  761,
+         762,  771,  773,  777,  781,  783,  784,  793,  806,  819,  820,
+         828,  830,  834,  838,  842,  844,  845,  854,  855,  856,  860,
+         866,  869,  873,  876,  878,  880,  885,  886,  890,  892,  894,
+         895,  904,  922,  930,  938,  944,  945,  949,  950,  952,  953,
+         955,  956,  957,  965,  971,  977,  980,  983,  986,  987,  990,
+         993,  995,  996, 1000, 1003, 1006, 1011, 1013, 1020, 1021, 1022,
+        1027, 1032, 1038, 1042, 1044, 1050, 1056, 1067, 1071, 1074, 1078,
+        1081, 1085, 1088, 1089, 1100, 1104, 1105, 1115, 1117, 1120, 1122,
+        1125, 1129, 1132, 1134, 1135, 1141, 1142, 1156, 1161, 1164, 1167,
+        1169, 1170, 1178, 1185, 1186, 1189, 1191, 1193, 1195, 1198, 1199,
         1200, 1203, 1204, 1206, 1207], dtype=int64),)</pre>
 </div>
 
@@ -13418,22 +13432,87 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Explain why the user with index = 4 is predicted as a 'MALE' user by the model.</strong></p>
+<p><strong>Explain why the user with index = 9 is predicted as a 'MALE' user by the model.</strong></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[56]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="mi">4</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="mi">9</span>
 <span class="n">instance_idx</span> <span class="o">=</span> <span class="n">x_test</span><span class="p">[</span><span class="n">index</span><span class="p">]</span>
 <span class="n">explanation</span> <span class="o">=</span> <span class="n">explainer_SEDC</span><span class="o">.</span><span class="n">explanation</span><span class="p">(</span><span class="n">instance_idx</span><span class="p">)</span>
 </pre></div>
 
     </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>Initialization complete
+
+ Elapsed time 0 
+
+
+ Iteration 1 
+
+new combinations can be expanded
+
+ Elapsed time 1 
+
+
+ size combis to expand 980 
+
+
+ Iteration 2 
+
+new combinations can be expanded
+
+ Elapsed time 3 
+
+
+ size combis to expand 1468 
+
+
+ Iteration 3 
+
+new combinations can be expanded
+
+ Elapsed time 6 
+
+
+ size combis to expand 1955 
+
+
+ Iteration 4 
+
+new combination cannot be expanded
+
+ Elapsed time 6 
+
+
+ size combis to expand 1955 
+
+iterations are done
+
+ Elapsed time 6 
+
+</pre>
+</div>
+</div>
+
 </div>
 </div>
 
@@ -13448,7 +13527,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[68]:</div>
+<div class="prompt input_prompt">In&nbsp;[16]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">explanation</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
@@ -13464,13 +13543,13 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[68]:</div>
+    <div class="prompt output_prompt">Out[16]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>[[&#39;Austin Powers&#39;]]</pre>
+<pre>[[&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Stripes (1981)&#39;]]</pre>
 </div>
 
 </div>
@@ -13481,7 +13560,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[70]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;IF the user did not watch the movie(s) &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">explanation</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">])</span> <span class="o">+</span> <span class="s2">&quot;, THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.&quot;</span><span class="p">)</span>
@@ -13501,7 +13580,7 @@ div#notebook {
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>IF the user did not watch the movie(s) [&#39;Austin Powers&#39;], THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.
+<pre>IF the user did not watch the movie(s) [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Stripes (1981)&#39;], THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.
 </pre>
 </div>
 </div>
@@ -13520,7 +13599,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[69]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">explanation</span>
@@ -13536,19 +13615,19 @@ div#notebook {
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[69]:</div>
+    <div class="prompt output_prompt">Out[18]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>([[&#39;Austin Powers&#39;]],
- 126,
- 1,
- 1,
- 0.09369540214538574,
- [array([1.62236891e-11])],
- 1)</pre>
+<pre>([[&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Stripes (1981)&#39;]],
+ 491,
+ 42,
+ 4,
+ 6.733529090881348,
+ [array([5.43878276e-11])],
+ 4)</pre>
 </div>
 
 </div>
@@ -13567,7 +13646,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[105]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="mi">30</span>
@@ -13596,39 +13675,16 @@ div#notebook {
 
  Iteration 1 
 
-length of new_combinations is 1 features.
-new combinations can be expanded
-
- Elapsed time 0 
-
-
- size combis to expand 382 
-
-
- Iteration 2 
-
-length of new_combinations is 2 features.
-new combinations can be expanded
-
- Elapsed time 0 
-
-
- size combis to expand 571 
-
-
- Iteration 3 
-
-length of new_combinations is 3 features.
 new combination cannot be expanded
 
- Elapsed time 1 
+ Elapsed time 0 
 
 
- size combis to expand 571 
+ size combis to expand 192 
 
 iterations are done
 
- Elapsed time 1 
+ Elapsed time 0 
 
 </pre>
 </div>
@@ -13648,7 +13704,7 @@ iterations are done
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[106]:</div>
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="s2">&quot;IF the user did not watch the movie(s) &quot;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">explanation</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">])</span> <span class="o">+</span> <span class="s2">&quot;, THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.&quot;</span><span class="p">)</span>
@@ -13668,7 +13724,7 @@ iterations are done
 
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>IF the user did not watch the movie(s) [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Moonraker (1979)&#39;], THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.
+<pre>IF the user did not watch the movie(s) [&#39;Apocalypse Now (1979)&#39;], THEN the predicted class would change from &#39;MALE&#39; to &#39;FEMALE&#39;.
 </pre>
 </div>
 </div>
@@ -13680,14 +13736,14 @@ iterations are done
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Show the 10 first explanation(s) found by the SEDC algorithm to explain the user index = 30. We change max_explained to 10.</strong></p>
+<p><strong>Show the 10 first explanation(s) found by the SEDC algorithm to explain the user index = 9. We change max_explained to 10.</strong></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[108]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">explainer_SEDC2</span> <span class="o">=</span> <span class="n">EDC_Explainer</span><span class="p">(</span><span class="n">feature_names</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">(</span><span class="n">feature_names</span><span class="o">.</span><span class="n">iloc</span><span class="p">[:,</span><span class="mi">1</span><span class="p">]),</span> 
@@ -13702,10 +13758,10 @@ iterations are done
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[109]:</div>
+<div class="prompt input_prompt">In&nbsp;[27]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="mi">30</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">index</span> <span class="o">=</span> <span class="mi">9</span>
 <span class="n">instance_idx</span> <span class="o">=</span> <span class="n">x_test</span><span class="p">[</span><span class="n">index</span><span class="p">]</span>
 <span class="n">explanation</span> <span class="o">=</span> <span class="n">explainer_SEDC2</span><span class="o">.</span><span class="n">explanation</span><span class="p">(</span><span class="n">instance_idx</span><span class="p">)</span>
 </pre></div>
@@ -13731,39 +13787,46 @@ iterations are done
 
  Iteration 1 
 
-length of new_combinations is 1 features.
 new combinations can be expanded
 
- Elapsed time 0 
+ Elapsed time 1 
 
 
- size combis to expand 382 
+ size combis to expand 980 
 
 
  Iteration 2 
 
-length of new_combinations is 2 features.
 new combinations can be expanded
 
- Elapsed time 0 
+ Elapsed time 3 
 
 
- size combis to expand 571 
+ size combis to expand 1468 
 
 
  Iteration 3 
 
-length of new_combinations is 3 features.
+new combinations can be expanded
+
+ Elapsed time 6 
+
+
+ size combis to expand 1955 
+
+
+ Iteration 4 
+
 new combination cannot be expanded
 
- Elapsed time 1 
+ Elapsed time 6 
 
 
- size combis to expand 571 
+ size combis to expand 1955 
 
 iterations are done
 
- Elapsed time 1 
+ Elapsed time 6 
 
 </pre>
 </div>
@@ -13776,14 +13839,14 @@ iterations are done
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>There are 85 explanations found after 3 iterations. The first 10 are shown. The time elapsed is 1.07 seconds. The number of active features (movies watched) is 192 movies.</strong></p>
+<p><strong>There are 42 explanations found after 4 iterations. The first 10 counterfactual explanations are shown. The time elapsed is 1.07 seconds. The number of active features (movies watched) is 491 movies.</strong></p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[110]:</div>
+<div class="prompt input_prompt">In&nbsp;[28]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">explanation</span>
@@ -13799,43 +13862,60 @@ iterations are done
 
 <div class="output_area">
 
-    <div class="prompt output_prompt">Out[110]:</div>
+    <div class="prompt output_prompt">Out[28]:</div>
 
 
 
 
 <div class="output_text output_subarea output_execute_result">
-<pre>([[&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Moonraker (1979)&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Halloween (1978)&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Exorcist&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Dr. Strangelove or&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Apollo 13 (1995)&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Toy Story 2 (1999)&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Hunt for Red October&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Being There (1979)&#39;],
-  [&#39;Apocalypse Now (1979)&#39;, &#39;GoodFellas (1990)&#39;, &#39;Few Good Men&#39;],
-  [&#39;Apocalypse Now (1979)&#39;,
-   &#39;GoodFellas (1990)&#39;,
-   &#39;Clear and Present Danger (1994)&#39;]],
- 192,
- 85,
- 3,
- 1.071535587310791,
- [array([2.02698303e-10]),
-  array([1.71272774e-10]),
-  array([1.49461554e-10]),
-  array([1.33312472e-10]),
-  array([1.32824196e-10]),
-  array([1.15168985e-10]),
-  array([1.0177259e-10]),
-  array([9.28264132e-11]),
-  array([9.27140587e-11]),
-  array([8.37869774e-11])],
- 3)</pre>
+<pre>([[&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Stripes (1981)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;2010 (1984)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;GoldenEye (1995)&#39;],
+  [&#39;Hoosiers (1986)&#39;,
+   &#39;Bridge on the River Kwai&#39;,
+   &#39;Cell&#39;,
+   &#39;Love! Valour! Compassion! (1997)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;War of the Worlds&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Dark City (1998)&#39;],
+  [&#39;Hoosiers (1986)&#39;,
+   &#39;Bridge on the River Kwai&#39;,
+   &#39;Cell&#39;,
+   &#39;From Russia with Love (1963)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Akira (1988)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;King Kong (1933)&#39;],
+  [&#39;Hoosiers (1986)&#39;, &#39;Bridge on the River Kwai&#39;, &#39;Cell&#39;, &#39;Rocky III (1982)&#39;]],
+ 491,
+ 42,
+ 4,
+ 6.724968433380127,
+ [array([5.43878276e-11]),
+  array([5.2816862e-11]),
+  array([4.87581087e-11]),
+  array([3.81537024e-11]),
+  array([3.6249892e-11]),
+  array([3.1685321e-11]),
+  array([3.12605497e-11]),
+  array([3.10653725e-11]),
+  array([2.82560642e-11]),
+  array([2.64801514e-11])],
+ 4)</pre>
 </div>
 
 </div>
 
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span> 
+</pre></div>
+
+    </div>
 </div>
 </div>
 
