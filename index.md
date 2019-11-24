@@ -10,6 +10,7 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 
 ## Talks
+* [Counterfactual explanations for models built from behavioral and textual data.](https://yramon.github.io/files/NYC_presentation_YRamon_oct2019_short.pdf) <br/> Invited Talk at LenddoEFL (Knowledge Sharing), New York City (USA), October 2019
 
 * [Comparative study of instance-level explanations for big, sparse data.](https://yramon.github.io/files/EURO_presentation_Dublin_June19_YanouRamon.pdf) <br/> EURO Conference, Dublin (Ireland), June 2019
 
@@ -18,4 +19,4 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 ## Teaching & Other projects
 * Assistant of *Data Mining* course of Prof. dr. ir. David Martens. <br/> University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Data Science Challenge (in collaboration with AXA Bank) and the Python tutorials.
 
-* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment* in Washington D.C. (USA). <br/> Will take place in July 2020.
+* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/) *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/> Will take place in July 2020.
