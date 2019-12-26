@@ -16,7 +16,7 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 * [Comparative study of instance-level explanations for big, sparse data.](https://yramon.github.io/files/EURO_presentation_Dublin_June19_YanouRamon.pdf){:target="_blank"} <br/> EURO Conference, Dublin (Ireland), June 2019
 
-* [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf) <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019 <br/> [book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"} / [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
+* [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf){:target="_blank"} <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019 <br/> [book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"} / [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
 
 ## Teaching & Other projects
 * Assistant of *Data Mining* course of Prof. dr. ir. David Martens. <br/> University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Data Science Challenge (in collaboration with AXA Bank) and the Python tutorials.
