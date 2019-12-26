@@ -6,7 +6,9 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 ## Publications
 
-* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. (2019). <br/> Yanou Ramon, David Martens, Foster Provost & Theodoros Evgeniou. <br/> *Currently under review.*
+* Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p. 286-307. Available [online](https://yramon.github.io/files/NYC_presentation_YRamon_oct2019_short.pdf){:target="_blank"}.
+
+* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. (2019). <br/> Yanou Ramon, David Martens, Foster Provost & Theodoros Evgeniou. <br/> *Forthcoming in Advances in Data Analysis and Classification (IF:2.098).*
 
 
 ## Talks
