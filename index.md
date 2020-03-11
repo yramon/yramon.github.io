@@ -12,7 +12,7 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 Preprint available on the [arXiv](https://arxiv.org/abs/1912.01819){:target="_blank"}.
 
 * Metafeatures-based Rule-Extraction for Classifiers on Behavioral and Textual Data. (2020). <br/> Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. <br/>
-Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_blank"}.*
+Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_blank"}.
 
 
 ## Talks
