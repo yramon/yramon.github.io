@@ -22,7 +22,7 @@ Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_bl
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
 
 * [Evidence Counterfactuals for explaining predictive models on Big Data.](https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html){:target="_blank"} 
-<br/> KDnuggets, May 2020
+<br/> KDnuggets blogpost, May 2020
 
 * [Counterfactual explanations for models built from behavioral and textual data.](https://yramon.github.io/files/NYC_presentation_YRamon_oct2019_short.pdf){:target="_blank"} <br/> Invited Talk at LenddoEFL (Knowledge Sharing), New York City (USA), October 2019
 
