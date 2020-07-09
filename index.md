@@ -21,6 +21,9 @@ Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_bl
 * [Towards Explainable Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/researchseminar_YR_19june2020.pdf){:target="_blank"} 
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
 
+* [Explaining predictive models: the Evidence Counterfactual](https://blog.uantwerpen.be/business-economics/predictive-models-on-big-data-mining-a-pool-of-evidence/){:target="_blank"}
+<br/> blogpost Faculty of Business & Economics, University of Antwerp, June 2020
+
 * [Evidence Counterfactuals for explaining predictive models on Big Data.](https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html){:target="_blank"} 
 <br/> KDnuggets blogpost, May 2020
 
