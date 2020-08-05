@@ -10,7 +10,7 @@ Click here to download my [CV](https://yramon.github.io/files/YanouRamon_CV_2020
 
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}.
 
-* Instance-level explanation algorithms for textual and behavioral data: a counterfactual-oriented comparison. (2020). <br/> Yanou Ramon, David Martens, Foster Provost, and Theodoros Evgeniou. <br/> *Forthcoming in Advances in Data Analysis and Classification.* <br/>
+* A Comparison of Instance-level Counterfactual Explanation Algorithms for Behavioral and Textual Data: SEDC, LIME-C and SHAP-C. (2020). <br/> Yanou Ramon, David Martens, Foster Provost, and Theodoros Evgeniou. <br/> *Forthcoming in Advances in Data Analysis and Classification.* <br/>
 Preprint available on the [arXiv](https://arxiv.org/abs/1912.01819){:target="_blank"}.
 
 * Metafeatures-based Rule-Extraction for Classifiers on Behavioral and Textual Data. (2020). <br/> Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. <br/> *Manuscript under review.* <br/>
