@@ -22,7 +22,7 @@ Full pdf available via this [link](https://rdcu.be/b6HCl){:target="_blank"}.
 
 ## Talks & Blogposts
 * [A Comparison of Counterfactual Algorithms for Explaining Prediction Models on Behavioral and Textual Data](https://yramon.github.io/files/AIMLAI_YR_Oct2020.pdf){:target="_blank"}
-<br/> Invited Talk at Advances in Interpretable Machine Learning and Artificial Intelligence workshop (CIKM online conference), 20th of October 2020
+<br/> Invited Talk at Advances in Interpretable Machine Learning and Artificial Intelligence [workshop](https://project.inria.fr/aimlai/program/){:target="_blank"} (CIKM online conference), 20th of October 2020
 
 * [Towards Explainable Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/researchseminar_YR_19june2020.pdf){:target="_blank"} 
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
