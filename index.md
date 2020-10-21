@@ -21,6 +21,9 @@ Full pdf available via this [link](https://rdcu.be/b6HCl){:target="_blank"}.
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}!
 
 ## Talks & Blogposts
+* [A Comparison of Counterfactual Algorithms for Explaining Prediction Models on Behavioral and Textual Data](https://yramon.github.io/files/AIMLAI_YR_Oct2020.pdf){:target="_blank"}
+<br/> Invited Talk at Advances in Interpretable Machine Learning and Artificial Intelligence workshop (CIKM online conference), 20th of October 2020
+
 * [Towards Explainable Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/researchseminar_YR_19june2020.pdf){:target="_blank"} 
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
 
