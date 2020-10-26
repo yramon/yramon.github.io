@@ -4,8 +4,6 @@ I am a Doctoral Researcher in the Applied Data Mining research group at the Univ
 
 In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Engineering (spec. Financial Engineering) from the University of Antwerp. As part of my Master's program, I studied at the Toulouse School of Management (TSM) during the Fall 2017 semester. 
 
-Click here to download my (academic) [CV](https://yramon.github.io/files/YanouRamon_CV_2020_Academic.pdf){:target="_blank"}.
-
 ## Publications
 
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}. <br/>
