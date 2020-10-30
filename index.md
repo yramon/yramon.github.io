@@ -4,7 +4,7 @@ I am a Doctoral Researcher in the Applied Data Mining research group at the Univ
 
 In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Engineering (spec. Financial Engineering) from the University of Antwerp. As part of my Master's program, I studied at the Toulouse School of Management (TSM) during the Fall 2017 semester. 
 
-Find my Curriculum Vitae [here](https://yramon.github.io/files/Resume_YanouRamon_2020.pdf).
+Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_2020_Academic.pdf).
 
 ## Publications
 
