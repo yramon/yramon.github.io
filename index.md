@@ -20,7 +20,7 @@ Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_202
 Full pdf available via this [link](https://rdcu.be/b6HCl){:target="_blank"}. 
 
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}. <br/>
-Full pdf available via this [link](https://www.researchgate.net/publication/338091651_Deep_Learning_on_Big_Sparse_Behavioral_Data){:target="_blank"}.
+Full pdf available [here](https://www.researchgate.net/publication/338091651_Deep_Learning_on_Big_Sparse_Behavioral_Data){:target="_blank"}.
 
 * Metafeatures-based Rule-Extraction for Classifiers on Behavioral and Textual Data. (2020). <br/> Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. <br/> *Manuscript under review.* Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_blank"}.
 
@@ -30,7 +30,7 @@ Full pdf available via this [link](https://www.researchgate.net/publication/3380
 
 ## Talks & Blogposts
 * [A Comparison of Counterfactual Algorithms for Explaining Prediction Models on Behavioral and Textual Data](https://yramon.github.io/files/AIMLAI_YR_Oct2020.pdf){:target="_blank"}
-<br/> Invited Talk at [Advances in Interpretable Machine Learning and Artificial Intelligence Workshop](https://project.inria.fr/aimlai/program/){:target="_blank"} (CIKM online conference), 20th of October 2020
+<br/> Invited Talk at [Advances in Interpretable Machine Learning and Artificial Intelligence Workshop](https://project.inria.fr/aimlai/program/){:target="_blank"} (CIKM online conference), October 2020
 
 * [Towards Explainable Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/researchseminar_YR_19june2020.pdf){:target="_blank"} 
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
@@ -48,6 +48,6 @@ Full pdf available via this [link](https://www.researchgate.net/publication/3380
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf){:target="_blank"} <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019, [Book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"}, [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
 
 ## Teaching & Other projects
-* Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* (part of the [Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens. University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA insurance).
+* Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens. University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA bank).
 
 * Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
