@@ -51,3 +51,6 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 * Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens. University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA bank).
 
 * Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
+
+## Data Sets 
+* [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users about 4000 movies. Gender, age and occupation of all users are available.
