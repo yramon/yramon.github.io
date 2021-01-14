@@ -65,6 +65,6 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * [TaFeng dataset](https://www.kaggle.com/chiranjivdas09/ta-feng-grocery-dataset){:target="_blank"} contains Chinese grocery store transactions. Socio-demographic information of customers is available.
 
-* [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains Twitter data about U.S. airlines labeled with sentiment (positive/neutral/negative).
+* [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment (positive/neutral/negative).
 
 * [20Newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html){:target="_blank"} contains 20,000 news posts labeled with a topic (e.g., science).
