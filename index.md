@@ -61,3 +61,5 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * [Libimseti dataset](http://www.occamslab.com/petricek/data/){:target="_blank"} contains 17 million (anonymous) profile ratings from users of a Czech social network Libimsetti.cz. Gender information of the users is available.
 
+* [Flickr dataset](http://socialnetworks.mpi-sws.org/data-www2009.html){:target="_blank"} contains millions of Flickr pictures with additional information about the number of comments per photo and favorite markings by users.
+
