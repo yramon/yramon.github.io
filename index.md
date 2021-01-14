@@ -63,5 +63,6 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * [Flickr dataset](http://socialnetworks.mpi-sws.org/data-www2009.html){:target="_blank"} contains millions of Flickr pictures with additional information about the number of comments per photo and favorite markings by users.
 
-* [Twitter Airline sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains Twitter data about U.S. airlines labeled with sentiment (positive/neutral/negative).
+* [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains Twitter data about U.S. airlines labeled with sentiment (positive/neutral/negative).
 
+* [20Newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html){:target="_blank"} contains 20,000 news posts labeled with a topic (e.g., science).
