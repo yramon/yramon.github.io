@@ -52,10 +52,12 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
 
-## Datasets 
+## Behavior and Text Data
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
 
 * [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/){:target="_blank"} contains 100,000 ratings from 1,000 users on 1700 movies. Gender, age and occupation of all users are available.
 
 * [Yahoo! Movies dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r){:target="_blank"} contains movies ratings and descriptive content information. Gender and age of all users are available.
+
+* [Libimseti dataset](http://www.occamslab.com/petricek/data/){:target="_blank"} contains 17 million (anonymous) profile ratings from users of a Czech social network Libimsetti.cz. Gender information of the users is available.
 
