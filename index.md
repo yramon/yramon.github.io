@@ -52,5 +52,8 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
 
-## Data Sets 
-* [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users about 4000 movies. Gender, age and occupation of all users are available.
+## Datasets 
+* [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
+
+* [MovieLens 100K](https://grouplens.org/datasets/movielens/100k/){:target="_blank"} contains 100,000 ratings from 1,000 users on 1700 movies. Gender, age and occupation of all users are available.
+
