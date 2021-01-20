@@ -52,7 +52,7 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
 
-## Behavior and Text Data for Classification Tasks
+## Behavior and Text Data for Supervised Machine Learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
 
 * [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/){:target="_blank"} contains 100,000 ratings from 1,000 users on 1700 movies. Gender, age and occupation of all users are available.
@@ -64,6 +64,8 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 * [Flickr dataset](http://socialnetworks.mpi-sws.org/data-www2009.html){:target="_blank"} contains millions of Flickr pictures with the number of comments per photo and favorite markings by users.
 
 * [TaFeng dataset](https://www.kaggle.com/chiranjivdas09/ta-feng-grocery-dataset){:target="_blank"} contains Chinese grocery store transactions. Socio-demographic information of customers is available.
+
+* [PhoneStudy dataset](https://osf.io/j9yrw/){:target="_blank"} (Stachl et al., 2019) contains self-reported Big Five personality traits, 1859 variables tapping real-world mobile sensing behavior, and demographics (age, gender, and education).
 
 * [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment (positive/neutral/negative).
 
