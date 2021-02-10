@@ -50,7 +50,7 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 ## Teaching & Other projects
 * Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens. University of Antwerp, Faculty of Business & Economics. <br/> Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA bank).
 
-* Co-organizer of [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington D.C. (USA) together with Jonas Vandenbruaene. <br/>
+* Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
 
 ## Publicly available Behavior and Text Data for Supervised Machine Learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
@@ -59,14 +59,14 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * [Yahoo! Movies dataset](https://webscope.sandbox.yahoo.com/catalog.php?datatype=r){:target="_blank"} contains movies ratings and descriptive content information. Gender and age of all users are available.
 
-* [Libimseti dataset](http://www.occamslab.com/petricek/data/){:target="_blank"} contains 17 million (anonymous) profile ratings from users of a Czech social network Libimsetti.cz. Gender information of the users is available.
+* [Libimseti dataset](http://www.occamslab.com/petricek/data/){:target="_blank"} contains 17 million (anonymous) profile ratings from users of a Czech social network Libimsetti.cz. Gender of the users is available.
 
 * [Flickr dataset](http://socialnetworks.mpi-sws.org/data-www2009.html){:target="_blank"} contains millions of Flickr pictures with the number of comments per photo and favorite markings by users.
 
 * [TaFeng dataset](https://www.kaggle.com/chiranjivdas09/ta-feng-grocery-dataset){:target="_blank"} contains Chinese grocery store transactions. Socio-demographic information of customers is available.
 
-* [PhoneStudy dataset](https://osf.io/j9yrw/){:target="_blank"} (Stachl et al., 2019) contains self-reported Big Five personality traits, 1859 variables tapping real-world mobile sensing behavior, and demographics (age, gender, and education).
+* [PhoneStudy dataset](https://osf.io/j9yrw/){:target="_blank"} contains self-reported Big Five personality traits, 1859 variables tapping real-world mobile sensing behavior, and demographics (Stachl et al., 2019).
 
-* [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment (positive/neutral/negative).
+* [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment.
 
 * [20Newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html){:target="_blank"} contains 20,000 news posts labeled with a topic (e.g., science).
