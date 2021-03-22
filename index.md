@@ -30,17 +30,17 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
 ## Talks & Blogposts
-* [Gaining insight into AI systems on digital footprints](https://yramon.github.io/files/FinalSlides_March2021_YRamon.pdf){:target="_blank"}
-<br/> Invited Talk at [Data Science Meetup Leuven](https://project.inria.fr/aimlai/program/){:target="_blank"}, March 2021
-<br/> Watch my presentation again via [this link](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_blank"} (starts at 58:00)
+* [Gaining insight into AI systems on digital footprints.](https://yramon.github.io/files/FinalSlides_March2021_YRamon.pdf){:target="_blank"}
+<br/> Invited Talk at [Data Science Meetup Leuven](https://www.meetup.com/nl-NL/Data-Science-Leuven/){:target="_blank"}, March 2021
+<br/> Watch my presentation again [here](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_blank"} (starts at 58:00)
 
-* [A Comparison of Counterfactual Algorithms for Explaining Prediction Models on Behavioral and Textual Data](https://yramon.github.io/files/AIMLAI_YR_Oct2020.pdf){:target="_blank"}
+* [A Comparison of Counterfactual Algorithms for Explaining Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/AIMLAI_YR_Oct2020.pdf){:target="_blank"}
 <br/> Invited Talk at [Advances in Interpretable Machine Learning and Artificial Intelligence Workshop](https://project.inria.fr/aimlai/program/){:target="_blank"} (CIKM online conference), October 2020
 
 * [Towards Explainable Prediction Models on Behavioral and Textual Data.](https://yramon.github.io/files/researchseminar_YR_19june2020.pdf){:target="_blank"} 
 <br/> Online Research Seminar, Dpt. of Engineering Management, Antwerp (Belgium), June 2020
 
-* [Explaining predictive models: the Evidence Counterfactual](https://blog.uantwerpen.be/business-economics/predictive-models-on-big-data-mining-a-pool-of-evidence/){:target="_blank"}
+* [Explaining predictive models: the Evidence Counterfactual.](https://blog.uantwerpen.be/business-economics/predictive-models-on-big-data-mining-a-pool-of-evidence/){:target="_blank"}
 <br/> Blogpost Faculty of Business & Economics, University of Antwerp, June 2020
 
 * [Evidence Counterfactuals for explaining predictive models on Big Data.](https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html){:target="_blank"} 
@@ -53,7 +53,7 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf){:target="_blank"} <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019, [Book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"}, [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
 
 ## Teaching & Other projects
-* Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens. University of Antwerp, Faculty of Business & Economics. Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA insurance).
+* Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens (University of Antwerp, Faculty of Business & Economics). Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA insurance).
 
 * Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
 
