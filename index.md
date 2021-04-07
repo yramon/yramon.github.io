@@ -57,7 +57,7 @@ Full pdf available [here](https://www.researchgate.net/publication/338091651_Dee
 
 * Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
 
-## Publicly available behavior and text data for supervised machine learning
+## Behavioral and text data for supervised machine learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
 
 * [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/){:target="_blank"} contains 100,000 ratings from 1,000 users on 1700 movies. Gender, age and occupation of all users are available.
