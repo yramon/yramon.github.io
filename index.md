@@ -23,7 +23,7 @@ Full pdf available [here](https://rdcu.be/b6HCl){:target="_blank"}.
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}. <br/>
 Full pdf available [here](https://www.researchgate.net/publication/338091651_Deep_Learning_on_Big_Sparse_Behavioral_Data){:target="_blank"}.
 
-* Metafeatures-based Rule-Extraction for Classifiers on Behavioral and Textual Data. (2020). <br/> Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. <br/> *Manuscript under review.* Preprint available on the [arXiv](https://arxiv.org/abs/2003.04792){:target="_blank"}.
+* Metafeatures-based Rule-Extraction for Classifiers on Behavioral and Textual Data. (2020). <br/> Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. <br/> *Manuscript under review.* Preprint available on [arXiv](https://arxiv.org/abs/2003.04792){:target="_blank"}.
 
 ## Open-source Code
 
