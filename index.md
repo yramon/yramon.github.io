@@ -17,10 +17,10 @@ Watch [my presentation](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_b
 
 ## Publications
 
-* Can metafeatures help improve explanations of prediction models when using behavioral and textual data? (2021). <br/>Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. Machine Learning, https://doi.org/10.1007/s10994-021-05981-0. Available [online](https://link.springer.com/article/10.1007/s10994-021-05981-0#citeas){:target="_blank"}. <br/>
+* Can metafeatures help improve explanations of prediction models when using behavioral and textual data? (2021). Yanou Ramon, David Martens, Theodoros Evgeniou and Stiene Praet. Machine Learning. Available [online](https://link.springer.com/article/10.1007/s10994-021-05981-0#citeas){:target="_blank"}. <br/>
 Full pdf available [here](https://link.springer.com/epdf/10.1007/s10994-021-05981-0?sharing_token=UhikrL5fVbTRkaJgjAoBqfe4RwlQNchNByi7wbcMAY4mMt6gxPSxKCKd9BPYQSuf5zLQYhUV1_adBGWxA1RnGB2SMPSPUzkwPISe7XrHEEAgiVVMuLTJADQUV2_xN9kkojNrF7fIEXJhg9l2O-cfwyFGmQnOh5JEucBJimZ0c_Y%3D){:target="_blank"}.  
 
-* A Comparison of Instance-level Counterfactual Explanation Algorithms for Behavioral and Textual Data: SEDC, LIME-C and SHAP-C. (2020). Yanou Ramon, David Martens, Foster Provost, and Theodoros Evgeniou. Advances in Data Analysis and Classification, https://doi.org/10.1007/s11634-020-00418-3. Available [online](https://link.springer.com/article/10.1007/s11634-020-00418-3){:target="_blank"}. <br/>
+* A Comparison of Instance-level Counterfactual Explanation Algorithms for Behavioral and Textual Data: SEDC, LIME-C and SHAP-C. (2020). Yanou Ramon, David Martens, Foster Provost, and Theodoros Evgeniou. Advances in Data Analysis and Classification. Available [online](https://link.springer.com/article/10.1007/s11634-020-00418-3){:target="_blank"}. <br/>
 Full pdf available [here](https://rdcu.be/b6HCl){:target="_blank"}. 
 
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}. <br/>
