@@ -23,11 +23,11 @@ Watch [my presentation](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_b
 
 * Deep Learning on Big, Sparse, Behavioral Data. (2019). <br/>Sofie De Cnudde, Yanou Ramon, David Martens, and Foster Provost.<br/> Big Data, 7:4, p.286-307. Available [online](https://www.liebertpub.com/doi/abs/10.1089/big.2019.0095){:target="_blank"}. Full pdf available [here](https://www.researchgate.net/publication/338091651_Deep_Learning_on_Big_Sparse_Behavioral_Data){:target="_blank"}.
 
-## Open-source Code
+## Open-source code
 
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
-## Talks & Blogposts
+## Talks & blogposts
 * [Gaining insight into AI systems on digital footprints.](https://yramon.github.io/files/FinalSlides_March2021_YRamon.pdf){:target="_blank"}
 <br/> Invited Talk at [Data Science Meetup Leuven](https://www.meetup.com/nl-NL/Data-Science-Leuven/){:target="_blank"}, March 2021
 <br/> Watch my presentation again [here](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_blank"} (begins at 57:40)
@@ -50,12 +50,12 @@ Watch [my presentation](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_b
 
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf){:target="_blank"} <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019, [Book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"}, [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
 
-## Teaching & Other projects
+## Teaching & other projects
 * Assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}) taught by Prof. David Martens (University of Antwerp, Faculty of Business & Economics). Responsible for the Python tutorials and the Data Science Challenge (in collaboration with AXA insurance).
 
 * Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
 
-## Behavioral and text data for supervised machine learning
+## Behavior and text data for supervised machine learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
 
 * [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/){:target="_blank"} contains 100,000 ratings from 1,000 users on 1700 movies. Gender, age and occupation of all users are available.
