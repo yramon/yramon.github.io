@@ -6,7 +6,7 @@ In 2018 (2016), I've obtained a Master's (Bachelor's) degree in Business Enginee
 
 Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_2020_Academic.pdf){:target="_blank"}.
 
-## Research Portfolio
+## Research portfolio
 
 * **Explaining personality predictions from spending behavior.** The goal of this project is to gain insight into how personality traits can be inferred from spending records. This project is in collaboration with [Prof. Sandra Matz](https://sandramatz.com/){:target="_blank"} and [Prof. Robert Farrokhnia](https://ra.schlosser.io/){:target="_blank"}, both affiliated at Columbia University in New York City (USA). 
 
