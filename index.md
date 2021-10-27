@@ -4,7 +4,7 @@ I am final year Doctoral Researcher at the University of Antwerp, having a PhD f
 
 In 2018 (2016), I obtained a Master's (Bachelor's) degree in Business Engineering (Financial Engineering) from the University of Antwerp (Belgium). As part of my Master's program, I studied at the Toulouse School of Management in France during the Fall 2017 semester. 
 
-Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_2021.pdf){:target="_blank"}.
+Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_2020_Academic.pdf){:target="_blank"}.
 
 ## Research portfolio
 
