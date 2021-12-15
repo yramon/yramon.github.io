@@ -33,6 +33,8 @@ Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_202
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
 ## Talks & blogposts
+* [Explainable AI for psychological profiling from behavioral data.](https://yramon.github.io/files/YRamon-XAI-jointseminar-adm+adrem-15december2021.pdf){:target="_blank"} <br/> Joint Seminar ADM+ADREM (online), December 2021
+
 * [Gaining insight into AI systems on digital footprints.](https://yramon.github.io/files/FinalSlides_March2021_YRamon.pdf){:target="_blank"}
 <br/> Invited Talk at [Data Science Meetup Leuven](https://www.meetup.com/nl-NL/Data-Science-Leuven/){:target="_blank"}, March 2021
 <br/> Watch my presentation again [here](https://www.youtube.com/watch?v=oKlFXKNNebo){:target="_blank"} (begins at 57:40)
