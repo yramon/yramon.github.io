@@ -62,7 +62,7 @@ Find my Curriculum Vitae [here](https://yramon.github.io/files/YanouRamon_CV_202
 
 * Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
 
-* Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. Responsible for organizing a local event 'WiDS @ UAntwerp' in May 2022.
+* Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. Responsible for organizing a local event *WiDS Antwerp @ University of Antwerp* in May 2022.
 
 ## Behavior and text data for supervised machine learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
