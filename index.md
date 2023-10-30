@@ -2,9 +2,7 @@
 
 I'm working as a data science consultant at McKinsey Digital in Brussels. I bring 1+ years experience in designing and implementing advanced analytics solutions, and I've worked on projects across different industries (Pharma, Telecom,...), topics (Demand forecasting, Workforce optimization,...) and countries (Spain, Serbia, Netherlands,...). 
 
-Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}). My supervisor was [Prof. dr. ir. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"}. In my research, I've contributed to the field of Explainable AI by presenting new methods to explain black-box AI models that are built from big human behavioral data (think of web browsing data, GPS locations, financial spending records, social media data,...).
-
-In 2018, I obtained a Master's degree in Business Engineering from the University of Antwerp in Belgium. As part of my Master's program, I studied at the Toulouse School of Management in France during the Fall 2017 semester. 
+Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}), with [Prof. dr. ir. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"} as my supervisor. In my research, I've contributed to the field of Explainable AI by presenting new methods to explain black-box AI models that are built from big human behavioral data (think of web browsing data, GPS locations, financial spending records, social media data,...).
 
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
