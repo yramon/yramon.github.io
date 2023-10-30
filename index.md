@@ -7,7 +7,7 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
-## Research portfolio
+## Research
 
 * **Explaining personality predictions from consumer spending data.** We showed how personality traits can be inferred from spending records, and which transaction patterns are most predictive for certain traits. This project was in collaboration with [Prof. Sandra Matz](https://sandramatz.com/){:target="_blank"} and [Prof. Robert Farrokhnia](https://ra.schlosser.io/){:target="_blank"}, both affiliated at Columbia University. Read the paper [here](https://www.mdpi.com/2078-2489/12/12/518/htm){:target="_blank"}.
 
@@ -36,6 +36,15 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
+## Teaching & other projects
+* 2022 - present: Guest lecturer on *AI for Everyone: Demystifying the basics of Artificial Intelligence* at the Master's course *Business Contracts & Technology* of Prof. Jan Blockx (Faculty of Law, University of Antwerp).
+
+* 2022 - present: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. Organized a local event *WiDS Antwerp @ University of Antwerp* in May 2022. Currently planning to organize an event in May 2024 (more info soon).
+
+* 2018-22: Teaching assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, and *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}). Responsible for the Python tutorials and the Data Science Challenge.
+
+* 2022: Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
+
 ## Talks & blogposts
 * [Explainable AI to Gain Insight into Big Five Personality Predictions from Financial Transaction Records.](https://yramon.github.io/files/SPSP2022-posterYRamon.pdf){:target="_blank"} <br/> SPSP Annual Convention, San Francisco (US), February 2022 <br/> Poster Presentation: [Suppl. Material 1](https://yramon.github.io/files/SPSP_YR_suppl1.pdf){:target="_blank"}, [Suppl. Material 2](https://yramon.github.io/files/SPSP_YR_suppl2.pdf){:target="_blank"}
 
@@ -62,15 +71,6 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 * [Comparative study of instance-level explanations for big, sparse data.](https://yramon.github.io/files/EURO_presentation_Dublin_June19_YanouRamon.pdf){:target="_blank"} <br/> EURO Conference, Dublin (Ireland), June 2019
 
 * [Instance-based explanations: motivation, overview, and the evidence counterfactual approach.](https://yramon.github.io/files/ECDA_presentation_Bayreuth_YanouRamon.pdf){:target="_blank"} <br/> European Conference on Data Analysis, Bayreuth (Germany), March 2019, [Book of abstracts](http://www.gfkl.org/ecda2019/wp-content/uploads/sites/7/2019/03/Book_of_Abstracts_FINAL.pdf){:target="_blank"}, [ECDA 2019](http://www.gfkl.org/ecda2019/){:target="_blank"}
-
-## Teaching
-* 2022-present: Guest lecturer on Data Science (i.e., *AI for Everyone: Demystifying the basics of Artificial Intelligence*) at the Master's course *Business Contracts & Technology* of Prof. Jan Blockx (Faculty of Law, University of Antwerp). 
-
-* 2018-22: Teaching assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, and *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}). Responsible for the Python tutorials and the Data Science Challenge.
-
-* 2022: Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
-
-* 2022-present: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. Organized a local event *WiDS Antwerp @ University of Antwerp* in May 2022. Currently planning to organize an event in May 2024 (more info soon).
 
 ## Behavior and text data for supervised machine learning
 * [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/){:target="_blank"} contains 1 million movie ratings from 6000 users on 4000 movies. Gender, age and occupation of all users are available.
