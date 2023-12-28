@@ -1,15 +1,15 @@
 ## About me
 
-I'm working as a data science consultant at McKinsey Digital in Brussels. I bring 1+ years experience in designing and implementing advanced analytics solutions, and worked on projects across different industries (Pharma, Telecom,...), topics (Demand forecasting, Workforce optimization,...) and countries (US, Serbia, Netherlands,...). 
+I'm working as a data science consultant at McKinsey Digital in Brussels. I bring 1.5+ years experience in designing and implementing advanced analytics solutions, and worked on projects across different industries (Life Sciences, Telecom,...), topics (Demand forecasting, Workforce optimization,...) and countries (US, UK, Netherlands,...). 
 
-Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}), with [Prof. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"} as my supervisor. In my research, I've contributed to the field of Explainable AI by presenting new methods to explain black-box AI models that are built from big human behavioral data (think of web browsing data, GPS locations, financial spending records, social media data,...).
+Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}), with [Prof. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"} as my supervisor. In my research, I've contributed to the field of Explainable AI by developing new methods to explain black-box AI models that are trained on big human behavioral data (think of web browsing data, GPS locations, financial transactions, social media data,...).
 
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
-## Research
+## Research portfolio
 
-* **Explaining personality predictions from consumer spending data.** We showed how personality traits can be inferred from spending records, and which transaction patterns are most predictive for certain traits. This project was in collaboration with [Prof. Sandra Matz](https://sandramatz.com/){:target="_blank"} and [Prof. Robert Farrokhnia](https://ra.schlosser.io/){:target="_blank"}, both affiliated at Columbia University. Read the paper [here](https://www.mdpi.com/2078-2489/12/12/518/htm){:target="_blank"}.
+* **Explaining personality predictions from consumer spending data.** We connected financial spending records to personality traits, and show which transaction patterns are most predictive for certain traits. This project was in collaboration with [Prof. Sandra Matz](https://sandramatz.com/){:target="_blank"} and [Prof. Robert Farrokhnia](https://ra.schlosser.io/){:target="_blank"}, both affiliated at Columbia University. Read the paper [here](https://www.mdpi.com/2078-2489/12/12/518/htm){:target="_blank"}.
 
 <iframe width="370" height="214" src="https://www.youtube.com/embed/utmnNQ0CBjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br/>
@@ -37,13 +37,13 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
 ## Teaching & other projects
-* 2022 - present: Guest lecturer on *AI for Everyone: Demystifying the basics of Artificial Intelligence* at the Master's course *Business Contracts & Technology* of Prof. Jan Blockx (Faculty of Law, University of Antwerp).
+* 2022 - present: Guest lecturer "AI for Everyone: Demystifying the basics of Artificial Intelligence" at the Master's course Business Contracts & Technology of Prof. Jan Blockx (Faculty of Law, University of Antwerp).
 
-* 2022 - present: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. Organized a local event *WiDS Antwerp @ University of Antwerp* in May 2022. Currently planning to organize an event in May 2024 (more info soon).
+* 2022 - present: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. More information on upcoming events can be found [here](https://www.womenindatascience.be/){:target="_blank"}.
 
-* 2018-22: Teaching assistant of *Data Mining*, *Ethics in Data Science*, *Case studies and trends in Data Mining*, and *Data Engineering* ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}). Responsible for the Python tutorials and the Data Science Challenge.
+* 2018-22: Teaching assistant of Data Mining, Ethics in Data Science, Case studies and trends in Data Mining, and Data Engineering ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}). Responsible for the Python tutorials and the Data Science Challenge in collaboration with AXA Insurance.
 
-* 2022: Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} *The American Business Environment* in Washington DC together with Jonas Vandenbruaene. <br/>
+* 2022: Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} "The American Business Environment" in Washington DC together with Jonas Vandenbruaene. <br/>
 
 ## Talks & blogposts
 * [Explainable AI to Gain Insight into Big Five Personality Predictions from Financial Transaction Records.](https://yramon.github.io/files/SPSP2022-posterYRamon.pdf){:target="_blank"} <br/> SPSP Annual Convention, San Francisco (US), February 2022 <br/> Poster Presentation: [Suppl. Material 1](https://yramon.github.io/files/SPSP_YR_suppl1.pdf){:target="_blank"}, [Suppl. Material 2](https://yramon.github.io/files/SPSP_YR_suppl2.pdf){:target="_blank"}
