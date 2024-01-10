@@ -22,7 +22,7 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 
 ## Publications
 
-* Explainable AI for Psychological Profiling from Behavioral Data: An Application to Big Five Personality Predictions from Financial Transaction Records. (2021). Yanou Ramon, R.A. Farrokhnia, Sandra C. Matz, and David Martens. *Information*, 12(12), 518. Available [online](https://www.mdpi.com/2078-2489/12/12/518){:target="_blank"}.
+* Explainable AI for Psychological Profiling from Behavioral Data: An Application to Big Five Personality Predictions from Financial Transaction Records. (2021). **Yanou Ramon**, R.A. Farrokhnia, Sandra C. Matz, and David Martens. *Information*, 12(12), 518. Available [online](https://www.mdpi.com/2078-2489/12/12/518){:target="_blank"}.
 
 * Can Metafeatures Help Improve Explanations of Prediction Models When Using Behavioral and Textual Data? (2021). **Yanou Ramon**, David Martens, Theodoros Evgeniou and Stiene Praet. *Machine Learning*. Available [online](https://link.springer.com/article/10.1007/s10994-021-05981-0#citeas){:target="_blank"}. Full pdf available [here](https://link.springer.com/epdf/10.1007/s10994-021-05981-0?sharing_token=UhikrL5fVbTRkaJgjAoBqfe4RwlQNchNByi7wbcMAY4mMt6gxPSxKCKd9BPYQSuf5zLQYhUV1_adBGWxA1RnGB2SMPSPUzkwPISe7XrHEEAgiVVMuLTJADQUV2_xN9kkojNrF7fIEXJhg9l2O-cfwyFGmQnOh5JEucBJimZ0c_Y%3D){:target="_blank"}.  
 
