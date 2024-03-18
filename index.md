@@ -1,6 +1,6 @@
 ## About me
 
-I'm working as a data science consultant at McKinsey Digital in Brussels. I bring 1.5+ years experience in designing and implementing advanced analytics solutions, and worked on projects across different industries (like healthcare, retail and telecom) topics (like demand forecasting, and workforce optimization) and countries.
+I'm working as a data science consultant at McKinsey & Company in Brussels. I've obtained experience in designing and implementing advanced analytics solutions, and worked on projects across different industries (like healthcare, retail and telecom) topics (like demand forecasting, and workforce optimization) and countries.
 
 Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}), with [Prof. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"} as my supervisor. In my research, I've contributed to the field of Explainable AI by developing new methods to explain black-box AI models that are trained on big human behavioral data (think of web browsing data, GPS locations, financial transactions, social media data,...).
 
