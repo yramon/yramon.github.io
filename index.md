@@ -39,7 +39,7 @@ Prior to McKinsey, I've obtained my PhD in Data Science from the University of A
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (code in Python). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
 ## Teaching & other projects
-* 2022 - present: Guest lecturer "AI for Everyone: Demystifying the basics of Artificial Intelligence" at the Master's course Business Contracts & Technology of Prof. Jan Blockx (Faculty of Law, University of Antwerp).
+* 2022 - present: Guest lecturer "AI for Everyone: Demystifying the basics of Artificial Intelligence" at the Master's course Business Contracts & Technology of Prof. Jan Blockx (Faculty of Law, University of Antwerp). Find the presentation [here](https://yramon.github.io/files/06052024-GastlesBCT-IntroductionAI_vS.pdf){:target="_blank"}.
 
 * 2022 - present: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. More information on upcoming events can be found [here](https://www.womenindatascience.be/){:target="_blank"}.
 
