@@ -4,6 +4,7 @@ I'm working as an AI Engineer at Loop Earplugs.
 
 Prior to Loop, I've obtained experience in designing and implementing advanced analytics solutions as a consultant at QuantumBlack (AI by McKinsey), and worked on projects across different industries, topics, and countries. Prior to McKinsey, I've obtained my PhD in Data Science from the University of Antwerp (fellowship granted by the [Research Foundation-Flanders](https://www.fwo.be/en/the-fwo/){:target="_blank"}), with [Prof. David Martens](https://www.uantwerpen.be/nl/personeel/david-martens/){:target="_blank"} as my supervisor. In my research, I've contributed to the field of Explainable AI by developing new methods to explain black-box AI models that are trained on big human behavioral data (think of web browsing data, GPS locations, financial transactions, social media data,...).
 
+* [CV (June 2025)](https://yramon.github.io/files/CV_YRamon_EN-June2025-vF.pdf){:target="_blank"}
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
