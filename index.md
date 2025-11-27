@@ -12,17 +12,17 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/FrontlineAI.png" width="100%" />
+    <img src="/img/demand.png" width="100%" />
     <p><strong>AI-driven demand & supply planning</strong><br/>
     Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
     <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/callcenter.jpg" width="100%" />
+    <img src="/img/Calls.png" width="100%" />
     <p><strong>Service-level-aware workforce optimization</strong><br/>
     Implemented service-level constraints (e.g. average wait time < 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package.</p>
-    <a href="[READ_MORE_LINK_2](https://www.mckinsey.com/capabilities/quantumblack/labs/our-products)" target="_blank">Read more →</a>
+    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
