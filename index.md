@@ -12,7 +12,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/frontlineAI.webp" width="100%" />
+    <img src="/img/FrontlineAI.png" width="100%" />
     <p><strong>AI-driven demand & supply planning</strong><br/>
     Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
     <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
@@ -26,10 +26,9 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="IMAGE_LINK_3" width="100%" />
+    <img src="/img/AIAdsLoop.png" width="100%" />
     <p><strong>GenAI-driven advertising visuals at scale</strong><br/>
     Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style).</p>
-    <a href="READ_MORE_LINK_3" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
