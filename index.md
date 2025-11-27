@@ -19,7 +19,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/McK.png" width="100%" />
+    <img src="/img/callcenter.jpg" width="100%" />
     <p><strong>Service-level-aware workforce optimization</strong><br/>
     Implemented service-level constraints (e.g. average wait time < 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package.</p>
     <a href="[READ_MORE_LINK_2](https://www.mckinsey.com/capabilities/quantumblack/labs/our-products)" target="_blank">Read more →</a>
@@ -32,13 +32,13 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/LoopRec.png" width="100%" />
+    <img src="/img/loops.jpg" width="100%" />
     <p><strong>Semantic product recommendations</strong><br/>
     Developed a recommendations engine using fine-tuned OpenAI model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="IMAGE_LINK_5" width="100%" />
+    <img src="/img/topictags.jpg" width="100%" />
     <p><strong>Auto-tagging of sentiment & topics in customer data</strong><br/>
     Built a classification pipeline using fine-tuned OpenAI model to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
     <a href="READ_MORE_LINK_5" target="_blank">Read more →</a>
