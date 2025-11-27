@@ -8,7 +8,54 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
-## Research portfolio
+## Machine Learning project portfolio
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_1" width="100%" />
+    <p><strong>AI-driven demand & supply planning</strong><br/>
+    Contributed to Frontline.ai that is an integrated demand & supply planning engine using time-series forecasting & linear programming optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail replenishment.</p>
+    <a href="READ_MORE_LINK_1" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_2" width="100%" />
+    <p><strong>Service-level-aware workforce optimization</strong><br/>
+    Implemented service-level constraints (e.g. average wait time < 60 sec) in a mixed-integer optimization model for workforce planning. Integrated into Frontline.AI at McKinsey, enabling enforcement of service-level agreements.</p>
+    <a href="READ_MORE_LINK_2" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_3" width="100%" />
+    <p><strong>GenAI-driven advertising visuals at scale</strong><br/>
+    Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style).</p>
+    <a href="READ_MORE_LINK_3" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_4" width="100%" />
+    <p><strong>Semantic product recommendations</strong><br/>
+    Developed a semantic search engine using sentence embeddings + approximate nearest neighbor (ANN) to match vague user queries to relevant earplug products, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
+    <a href="READ_MORE_LINK_4" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_5" width="100%" />
+    <p><strong>Auto-tagging of sentiment & topics in customer data</strong><br/>
+    Built a classification pipeline using fine-tuned foundation language models to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
+    <a href="READ_MORE_LINK_5" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="IMAGE_LINK_6" width="100%" />
+    <p><strong>Generative ideation for Creative teams</strong><br/>
+    Built a generative AI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time and increase ideation throughput.</p>
+    <a href="READ_MORE_LINK_6" target="_blank">Read more →</a>
+  </div>
+
+</div>
+   
+## Research portfolio (2020-2023)
 
 * **Explaining personality predictions from consumer spending data (2021).** We connected financial spending records to personality traits, and show which transaction patterns are most predictive for certain traits. This project was in collaboration with [Prof. Sandra Matz](https://sandramatz.com/){:target="_blank"} and [Prof. Robert Farrokhnia](https://ra.schlosser.io/){:target="_blank"}, both affiliated at Columbia University. Read the paper [here](https://www.mdpi.com/2078-2489/12/12/518/htm){:target="_blank"}.
 
@@ -21,7 +68,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 
 * **Using LIME and SHAP to counterfactually explain model predictions (2020).** We developed novel algorithms ([LIME-C](https://github.com/yramon/LimeCounterfactual){:target="_blank"} and [SHAP-C](https://github.com/yramon/ShapCounterfactual){:target="_blank"}) for computing counterfactual explanations by aligning additive feature attribution explanation methods with the notion of counterfactuals. Counterfactual explanations are tailored to a single model decision and show a set of features such that, when removing them (setting their values to zero), the predicted class changes. (Read my KDNuggets blogpost on counterfactual explanations [here](https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html){:target="_blank"}.) Martens & Provost (2013) proposed a heuristic algorithm [SEDC](pages.stern.nyu.edu/~fprovost/Papers/MartensProvost_Explaining.pdf){:target="_blank"} based on local improvement, originally in the context of explaining document classifications (open-source code [here](https://github.com/yramon/edc){:target="_blank"}). In this [paper](https://link.springer.com/epdf/10.1007/s11634-020-00418-3?sharing_token=S-ZlX5lQWJkpuxoiUPV8__e4RwlQNchNByi7wbcMAY7sQ9KluI1KeELkdg_mEQicaoXaoohNECLfwgFaf3b6zksBL6ll0pEm465_TkCFlp7tmugduGTXK0-0enwdOxmDo5-DA0ru28xQcmK6soKgWU9rHQcx-QtJAJic3LSda-I%3D){:target="_blank"}, I compared the effectiveness and efficiency of the two novel algorithms against the SEDC algorithm, and found that LIME-C is a suitable alternative to SEDC, especially for data with large instances. 
 
-## Publications
+## Publications (2020-2023)
 
 * Implications of Cloaking Digital Footprints for Privacy and Personalization. (2023). Sofie Goethals, Sandra Matz, Foster Provost, David Martes and **Yanou Ramon**. Working paper available [here](https://arxiv.org/pdf/2312.15000.pdf){:target="_blank"}.
 
@@ -35,7 +82,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 
 * Understanding Consumer Preferences for Explanations Generated by XAI Algorithms. (2021). **Yanou Ramon**, Tom Vermeire, Olivier Toubia, David Martens and Theodoros Evgeniou. Working paper available [here](https://arxiv.org/abs/2107.02624){:target="_blank"}.
 
-## Open-source contributions
+## Open-source contributions (2020-2023)
 
 * Implementation of explanation algorithms [SEDC](https://github.com/yramon/edc), [LIME-C](https://github.com/yramon/LimeCounterfactual) and [SHAP-C](https://github.com/yramon/ShapCounterfactual) to compute counterfactual explanations for predictions of classifiers trained on behavioral and textual data (Python code). Take a look at the tutorials on how to use the SEDC explainer object to explain model predictions on [behavioral data](https://yramon.github.io/tutorials/Tutorial_BehavioralDataMovielens_LR_SEDC.html){:target="_blank"} and [text data](https://yramon.github.io/tutorials/Tutorial_TextData_SEDC.html){:target="_blank"}.
 
@@ -93,42 +140,6 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 * [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment.
 
 * [20Newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html){:target="_blank"} contains 20,000 news posts labeled with a topic (e.g., science).
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://img.youtube.com/vi/utmnNQ0CBjE/hqdefault.jpg" width="100%" />
-    <p><strong>Personality from Spending</strong><br/>Predicting Big Five traits from financial transactions.</p>
-    <a href="https://www.mdpi.com/2078-2489/12/12/518/htm" target="_blank">Read more →</a>
-  </div>
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/XAI_diagram.png" width="100%" />
-    <p><strong>User Preferences for XAI</strong><br/>Study on preferred explanation styles (e.g., counterfactuals).</p>
-    <a href="https://arxiv.org/abs/2107.02624" target="_blank">Read more →</a>
-  </div>
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Rule_based_systems_example.png" width="100%" />
-    <p><strong>Metafeature Explanations</strong><br/>Rule extraction using grouped features for global insights.</p>
-    <a href="https://link.springer.com/article/10.1007/s10994-021-05981-0#citeas" target="_blank">Read more →</a>
-  </div>
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://www.kdnuggets.com/wp-content/uploads/LIME-SHAP-Explainers.png" width="100%" />
-    <p><strong>Counterfactual Explainability</strong><br/>LIME-C & SHAP-C algorithms for local explanations.</p>
-    <a href="https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html" target="_blank">Read more →</a>
-  </div>
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://yt3.googleusercontent.com/ytc/APkrFKZLOEM3blOli7eqiYJuP0utJ3S1pAChKptgRWXN=s900-c-k-c0x00ffffff-no-rj" width="100%" />
-    <p><strong>WiDS & Teaching</strong><br/>Ambassador for Women in Data Science & AI guest lectures.</p>
-    <a href="https://www.womenindatascience.be/" target="_blank">Read more →</a>
-  </div>
-
-  <div style="flex: 0 0 45%;">
-    <img src="https://loop-earplugs.com/cdn/shop/files/Loop_Earplugs_Logo_White_on_Black_Square.jpg?v=1655289742" width="100%" />
     <p><strong>AI @ Loop Earplugs</strong><br/>NLP, LLMs, and GenAI for marketing, support & personalization.</p>
     <a href="https://www.loopearplugs.com" target="_blank">Read more →</a>
   </div>
