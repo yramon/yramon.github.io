@@ -93,10 +93,8 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 ## Teaching
 * 2025 - present: Lecturer of the course "Data Science for Business" to students of the Master in Management program at the Antwerp Management School (Belgium).
   
-* 2022-25: Guest lecturer "AI for Everyone: Demystifying the basics of Artificial Intelligence" at the Master's course Business Contracts & Technology of Prof. Jan Blockx (Faculty of Law, University of Antwerp). Find the presentation [here](https://yramon.github.io/files/06052024-GastlesBCT-IntroductionAI_vS.pdf){:target="_blank"}.
+* 2022 - present: Guest lecturer "AI for Everyone: Demystifying the basics of Artificial Intelligence" at the Master's course Business Contracts & Technology of Prof. Jan Blockx (Faculty of Law, University of Antwerp, Belgium). Find the presentation [here](https://yramon.github.io/files/06052024-GastlesBCT-IntroductionAI_vS.pdf){:target="_blank"}.
 
 * 2022-24: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. More information [here](https://www.womenindatascience.be/){:target="_blank"}.
 
-* 2018-22: Teaching assistant of Data Mining, Ethics in Data Science, Case studies and trends in Data Mining, and Data Engineering ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}). Responsible for the Python tutorials and the Data Science Challenge in collaboration with AXA Insurance.
-
-* 2022: Co-organizer of the [Summer School](https://www.uantwerpen.be/en/about-uantwerp/faculties/faculty-of-business-and-economics/studying-and-education/programmes/summer-schools/usa-washington/){:target="_blank"} "The American Business Environment" in Washington DC together with Jonas Vandenbruaene. <br/>
+* 2018-22: Teaching assistant of Data Mining, Ethics in Data Science, Case studies and trends in Data Mining, and Data Engineering ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}, University of Antwerp, Belgium). Responsible for the Python tutorials and the Data Science Challenge in collaboration with AXA Insurance.
