@@ -27,8 +27,8 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 
   <div style="flex: 0 0 45%;">
     <img src="/img/AIAdsLoop.png" width="100%" />
-    <p><strong>GenAI-driven advertising visuals at scale</strong><br/>
-    Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style).</p>
+    <p><strong>GenAI campaign visuals at scale</strong><br/>
+    Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style). Project in collaboration with Inect.</p>
   </div>
 
   <div style="flex: 0 0 45%;">
