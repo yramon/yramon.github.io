@@ -97,4 +97,4 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 
 * 2022-24: Ambassador of [Women in Data Science](https://www.widsconference.org/){:target="_blank"}. More information [here](https://www.womenindatascience.be/){:target="_blank"}.
 
-* 2018-22: Teaching assistant of Data Mining, Ethics in Data Science, Case studies and trends in Data Mining, and Data Engineering ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}, University of Antwerp, Belgium). Responsible for the Python tutorials and the Data Science Challenge in collaboration with AXA Insurance.
+* 2018-22: Teaching assistant of "Data Mining", "Ethics in Data Science", "Case studies & trends in Data Mining", and "Data Engineering" ([Major Data Science](https://www.uantwerpen.be/en/research-groups/applied-data-mining/education/){:target="_blank"}, University of Antwerp, Belgium). Responsible for the Python tutorials and the Data Science Challenge in collaboration with AXA Insurance.
