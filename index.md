@@ -17,7 +17,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
     </div>
     <div>
       <p><strong>AI-driven demand & supply planning</strong><br/>
-      Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
+      Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance.</p>
     </div>
   </div>
 
