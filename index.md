@@ -11,13 +11,13 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 ## ML Projects Portfolio
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="flex: 0 0 45%;">
+ <div style="flex: 0 0 45%;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/demand.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
     <p><strong>AI-driven demand & supply planning</strong><br/>
-    Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.  <p style="margin-bottom: 4px;">
-    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
+    Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
+    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank" style="margin-bottom: 4px; display: inline-block;">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
@@ -25,8 +25,8 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
       <img src="/img/Calls.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
     <p><strong>Service-level-aware workforce optimization</strong><br/>
-    Implemented service-level constraints (e.g. average wait time < 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package. <p style="margin-bottom: 4px;">
-    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
+    Implemented service-level constraints (e.g. average wait time &lt; 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package.</p>
+    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank" style="margin-bottom: 4px; display: inline-block;">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
