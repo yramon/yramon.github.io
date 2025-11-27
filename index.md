@@ -93,3 +93,44 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 * [Twitter sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment){:target="_blank"} contains tweets about U.S. airlines labeled with sentiment.
 
 * [20Newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html){:target="_blank"} contains 20,000 news posts labeled with a topic (e.g., science).
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://img.youtube.com/vi/utmnNQ0CBjE/hqdefault.jpg" width="100%" />
+    <p><strong>Personality from Spending</strong><br/>Predicting Big Five traits from financial transactions.</p>
+    <a href="https://www.mdpi.com/2078-2489/12/12/518/htm" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/XAI_diagram.png" width="100%" />
+    <p><strong>User Preferences for XAI</strong><br/>Study on preferred explanation styles (e.g., counterfactuals).</p>
+    <a href="https://arxiv.org/abs/2107.02624" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Rule_based_systems_example.png" width="100%" />
+    <p><strong>Metafeature Explanations</strong><br/>Rule extraction using grouped features for global insights.</p>
+    <a href="https://link.springer.com/article/10.1007/s10994-021-05981-0#citeas" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://www.kdnuggets.com/wp-content/uploads/LIME-SHAP-Explainers.png" width="100%" />
+    <p><strong>Counterfactual Explainability</strong><br/>LIME-C & SHAP-C algorithms for local explanations.</p>
+    <a href="https://www.kdnuggets.com/2020/05/evidence-counterfactuals-predictive-models-big-data.html" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://yt3.googleusercontent.com/ytc/APkrFKZLOEM3blOli7eqiYJuP0utJ3S1pAChKptgRWXN=s900-c-k-c0x00ffffff-no-rj" width="100%" />
+    <p><strong>WiDS & Teaching</strong><br/>Ambassador for Women in Data Science & AI guest lectures.</p>
+    <a href="https://www.womenindatascience.be/" target="_blank">Read more →</a>
+  </div>
+
+  <div style="flex: 0 0 45%;">
+    <img src="https://loop-earplugs.com/cdn/shop/files/Loop_Earplugs_Logo_White_on_Black_Square.jpg?v=1655289742" width="100%" />
+    <p><strong>AI @ Loop Earplugs</strong><br/>NLP, LLMs, and GenAI for marketing, support & personalization.</p>
+    <a href="https://www.loopearplugs.com" target="_blank">Read more →</a>
+  </div>
+
+</div>
