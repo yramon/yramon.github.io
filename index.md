@@ -32,22 +32,22 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="/img/LoopRecSys.jpg" width="100%" />
+    <img src="/img/LoopRec.png" width="100%" />
     <p><strong>Semantic product recommendations</strong><br/>
-    Developed a recommendations engine using fine-tuned OpenAI foundation model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
+    Developed a recommendations engine using fine-tuned OpenAI model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
   </div>
 
   <div style="flex: 0 0 45%;">
     <img src="IMAGE_LINK_5" width="100%" />
     <p><strong>Auto-tagging of sentiment & topics in customer data</strong><br/>
-    Built a classification pipeline using fine-tuned foundation language models to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
+    Built a classification pipeline using fine-tuned OpenAI model to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
     <a href="READ_MORE_LINK_5" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
     <img src="IMAGE_LINK_6" width="100%" />
     <p><strong>Generative ideation for Creative teams</strong><br/>
-    Built a generative AI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time and increase ideation throughput.</p>
+    Built a GenAI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time & increase ideation throughput.</p>
     <a href="READ_MORE_LINK_6" target="_blank">Read more →</a>
   </div>
 
