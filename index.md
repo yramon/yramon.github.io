@@ -9,56 +9,68 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
 ## ML Projects Portfolio
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center; align-items: flex-start;">
 
- <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/demand.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>AI-driven demand & supply planning</strong><br/>
-    Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
-    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank" style="margin-bottom: 4px; display: inline-block;">Read more →</a>
+    <div>
+      <p><strong>AI-driven demand & supply planning</strong><br/>
+      Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using time-series forecasting & optimization. Applied this solution across industries, from call center planning to energy tank maintenance & pharma retail staffing.</p>
+      <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
+    </div>
   </div>
 
-  <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/Calls.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>Service-level-aware workforce optimization</strong><br/>
-    Implemented service-level constraints (e.g. average wait time &lt; 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package.</p>
-    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank" style="margin-bottom: 4px; display: inline-block;">Read more →</a>
+    <div>
+      <p><strong>Service-level-aware workforce optimization</strong><br/>
+      Implemented service-level constraints (e.g. average wait time &lt; 60 sec) in an optimization model for workforce planning. Integrated into QuantumBlack's Frontline.AI package.</p>
+      <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
+    </div>
   </div>
 
-  <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/AIAdsLoop.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>GenAI campaign visuals at scale</strong><br/>
-    Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style). Project in collaboration with Inect.</p>
+    <div>
+      <p><strong>GenAI campaign visuals at scale</strong><br/>
+      Used open-source Stable Diffusion models with fine-tuned LoRAs to generate large batches of static marketing images aligned with brand identity (e.g., color, vibe, style). Project in collaboration with Inect.</p>
+    </div>
   </div>
 
-  <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/loops.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>Search-based product recommendations</strong><br/>
-    Developed a recommendations engine leveraging a fine-tuned OpenAI model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
+    <div>
+      <p><strong>Search-based product recommendations</strong><br/>
+      Developed a recommendations engine leveraging a fine-tuned OpenAI model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
+    </div>
   </div>
 
-  <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/topictags.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>Auto-tagging of sentiment & topics in customer data</strong><br/>
-    Built a classification pipeline using fine-tuned OpenAI model to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
+    <div>
+      <p><strong>Auto-tagging of sentiment & topics in customer data</strong><br/>
+      Built a classification pipeline using fine-tuned OpenAI model to auto-tag sentiment & topics in customer reviews and support interactions. Enabled faster, more consistent insights for decision-making across business teams.</p>
+    </div>
   </div>
 
-  <div style="flex: 0 0 45%;">
+  <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
     <div style="width: 100%; aspect-ratio: 1 / 1; overflow: hidden;">
       <img src="/img/teamwork.png" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
-    <p><strong>Generative ideation for Creative teams</strong><br/>
-    Built a GenAI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time & increase ideation throughput.</p>
+    <div>
+      <p><strong>Generative ideation for Creative teams</strong><br/>
+      Built a GenAI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time & increase ideation throughput.</p>
+    </div>
   </div>
 
 </div>
