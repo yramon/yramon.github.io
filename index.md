@@ -8,21 +8,21 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
-## Machine Learning project portfolio
+## Machine Learning portfolio
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 0 0 45%;">
     <img src="IMAGE_LINK_1" width="100%" />
     <p><strong>AI-driven demand & supply planning</strong><br/>
-    Contributed to Frontline.ai module that is an integrated demand & supply planning engine using a.o. time-series forecasting & optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail replenishment.</p>
-    <a href="READ_MORE_LINK_1" target="_blank">Read more →</a>
+    Contributed to QuantumBlack's Frontline.ai module, that is an integrated demand & supply planning engine using a.o. time-series forecasting & optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail replenishment.</p>
+    <a href="[READ_MORE_LINK_1](https://www.mckinsey.com/capabilities/quantumblack/labs/our-products)" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
     <img src="IMAGE_LINK_2" width="100%" />
     <p><strong>Service-level-aware workforce optimization</strong><br/>
-    Implemented service-level constraints (e.g. average wait time < 60 sec) in a mixed-integer optimization model for workforce planning. Integrated into Frontline.AI at McKinsey, enabling enforcement of service-level agreements.</p>
-    <a href="READ_MORE_LINK_2" target="_blank">Read more →</a>
+    Implemented service-level constraints (e.g. average wait time < 60 sec) in a mixed-integer optimization model for workforce planning. Integrated into Frontline.AI at QuantumBlack, enabling enforcement of service-level agreements.</p>
+    <a href="[READ_MORE_LINK_2](https://www.mckinsey.com/capabilities/quantumblack/labs/our-products)" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
