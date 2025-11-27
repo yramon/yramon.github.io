@@ -14,7 +14,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   <div style="flex: 0 0 45%;">
     <img src="IMAGE_LINK_1" width="100%" />
     <p><strong>AI-driven demand & supply planning</strong><br/>
-    Contributed to Frontline.ai that is an integrated demand & supply planning engine using time-series forecasting & linear programming optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail replenishment.</p>
+    Contributed to Frontline.ai module that is an integrated demand & supply planning engine using a.o. time-series forecasting & optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail replenishment.</p>
     <a href="READ_MORE_LINK_1" target="_blank">Read more →</a>
   </div>
 
