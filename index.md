@@ -12,10 +12,10 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 0 0 45%;">
-    <img src="IMAGE_LINK_1" width="100%" />
+    <img src="/img/frontlineAI.webp" width="100%" />
     <p><strong>AI-driven demand & supply planning</strong><br/>
-    Contributed to QuantumBlack's Frontline.ai module, that is an integrated demand & supply planning engine using a.o. time-series forecasting & optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail staffing.</p>
-    <a href="[READ_MORE_LINK_1](https://www.mckinsey.com/capabilities/quantumblack/labs/our-products)" target="_blank">Read more →</a>
+    Contributed to QuantumBlack's Frontline.ai module, an integrated demand & supply planning engine using a.o. time-series forecasting & optimization. Applied this solution across industries, from call center workforce planning to energy tank maintenance and pharma retail staffing.</p>
+    <a href="https://www.mckinsey.com/capabilities/quantumblack/labs/our-products" target="_blank">Read more →</a>
   </div>
 
   <div style="flex: 0 0 45%;">
