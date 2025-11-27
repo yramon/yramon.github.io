@@ -45,7 +45,7 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="IMAGE_LINK_6" width="100%" />
+    <img src="/img/teamwork.png" width="100%" />
     <p><strong>Generative ideation for Creative teams</strong><br/>
     Built a GenAI toolchain to assist marketers with ad concepting, variant briefings, and creative angles. Prompted on brand tone and audience profiles to reduce campaign development time & increase ideation throughput.</p>
     <a href="READ_MORE_LINK_6" target="_blank">Read more →</a>
