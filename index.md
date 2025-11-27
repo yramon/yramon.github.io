@@ -32,10 +32,9 @@ Prior to Loop, I've obtained experience in designing and implementing advanced a
   </div>
 
   <div style="flex: 0 0 45%;">
-    <img src="IMAGE_LINK_4" width="100%" />
+    <img src="/img/LoopRecSys.jpg" width="100%" />
     <p><strong>Semantic product recommendations</strong><br/>
-    Developed a semantic search engine using sentence embeddings + approximate nearest neighbor (ANN) to match vague user queries to relevant earplug products, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
-    <a href="READ_MORE_LINK_4" target="_blank">Read more →</a>
+    Developed a recommendations engine using fine-tuned OpenAI foundation model to match user queries to the relevant product, bypassing rigid use-case selection. Resulted in higher conversion rates.</p>
   </div>
 
   <div style="flex: 0 0 45%;">
