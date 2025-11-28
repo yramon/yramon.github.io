@@ -1,6 +1,6 @@
 ## About me
 
-I'm currently working as an **AI Engineer at Loop Earplugs** and **teaching "Data Science for Business" at the Antwerp Management School** (Master in Management).
+I'm currently working as a **ML Engineer at Loop Earplugs** and **teaching "Data Science for Business" at the Antwerp Management School** (Master in Management).
 
 Previously, I worked as a consultant at QuantumBlack (AI by McKinsey), designing and implementing advanced analytics solutions across various industries, topics, and countries.
 
@@ -10,7 +10,7 @@ Before McKinsey, I've obtained my PhD in Data Science from the University of Ant
 * [Google Scholar](https://scholar.google.com/citations?hl=nl&user=CSPx20wAAAAJ&view_op=list_works&gmla=AJsN-F6Hd_YC8qIqErzyCDZCFFALYCRKElPI3VCEBAiTgiaxClmRU2Xt2ESY6afZKH6Ra0LUeD_om_wsN_qRXRlqgxsCj0A-9nRjswIXCCJNJVMFOqMxsw8){:target="_blank"} 
 * [LinkedIn](https://www.linkedin.com/in/yanou-ramon-aa2b1ab3/){:target="_blank"}
 
-## ML Projects Portfolio
+## ML Project Highlights
 <div style="display: flex; flex-wrap: wrap; gap: 32px; justify-content: center; align-items: flex-start;">
 
   <div style="flex: 0 0 45%; display: flex; flex-direction: column; gap: 8px;">
